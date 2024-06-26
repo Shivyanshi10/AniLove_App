@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770268900227",
+    "project_id": "anilove-71b8e",
+    "storage_bucket": "anilove-71b8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770268900227:android:a7bd847652c8a33669e4b6",
+        "android_client_info": {
+          "package_name": "com.example.anilove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5DBIYqNsVM3Pu37XqUtg1bCppiAJY0JM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
